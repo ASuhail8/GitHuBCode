@@ -7,7 +7,7 @@ public class git {
 	@Test
 	public void Demo1()
 	{
-		System.out.println("Executing from GIT");
+		System.out.println("Executing from GITHUB");
 	}
 
 }
